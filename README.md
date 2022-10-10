@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Renan</h1>
-<h3 align="center">Hi I'm 18 years old self-taught game developer. I am currently studying electrical and electronics engineering at ITÜ.</h3>
+<h3 align="center">Hi I'm 18 years old self-taught game developer. I am currently studying electrical and electronics engineering at Istanbul Topkapı University.</h3>
 
 <h3 align="Center">Connect with me:</h3>
 <p align="center">
