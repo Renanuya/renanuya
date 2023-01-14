@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Renan</h1>
-<h3 align="center">Hello, my name is Ali Renan and I’m an 18-year-old
+<h3 align="center">Hello, I’m an 18-year-old
 self-taught game developer and designer. I’m
 currently studying Electrical and Electronics
 Engineering at Istanbul Topkapi University. I have
