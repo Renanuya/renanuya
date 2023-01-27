@@ -18,7 +18,7 @@
 <img src="https://komarev.com/ghpvc/?username=renanuya"/>
 </a>
 
-<h3 align="center">Hello, my name is Ali Renan and I am 19 years old. I am currently taking a cross-platform mobile application development training program with Flutter by Google Game and App Academy. Additionally, I am a part of the Young Guru Academy Skills For Future program and am a project coordinator at GDSC (Google Developer Student Clubs). I am also a member of the Amazon Games content creator program.</h3>
+<h3 align="center">Hello, my name is Ali Renan Uyanık and I am 19 years old. I am currently taking a cross-platform mobile application development training program with Flutter by Google Game and App Academy. Additionally, I am a part of the Young Guru Academy Skills For Future program and am a project coordinator at GDSC (Google Developer Student Clubs). I am also a member of the Amazon Games content creator program.</h3>
 <br>
 
 <img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,figma,photoshop,ai,vscode&theme=dark" />
