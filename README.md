@@ -27,7 +27,4 @@
 <div width="50%" align="center">
 <img width="80%" src="https://github-readme-stats.vercel.app/api?username=renanuya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=renanuya&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=renanuya&hide_border=true&theme=react-dark)](https://github.com/renanuya/github-readme-activity-graph)
-
 </div>
