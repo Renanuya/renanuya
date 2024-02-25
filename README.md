@@ -18,13 +18,5 @@
 <img src="https://komarev.com/ghpvc/?username=renanuya"/>
 </a>
 
-<p align="justify"> <b>I am a university student with a passion for mobile app development and a keen interest in staying up-to-date with new technologies. I completed a nine-month Flutter training program at the Google's Game and App Academy. This led me to decide to advance my career in this field. I have developed two applications with Flutter and have also worked on web projects using Flutter. Furthermore, I am delving into Swift with the aim of developing apps for VisionOS in the future. In addition to my independent projects, I also manage two separate startups and actively contribute as a member of their development teams. I prioritize user experience in mobile apps. I've completed Figma courses and constantly strive to improve in this area. I play an active role in various endeavors aimed at advancing the software community. </b> </p>
+<p align="justify"> <b>Just me.</b> </p>
 <br>
-
-<img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,figma,photoshop,ai,vscode&theme=dark" />
-</div>
-<div align="center">
-<div width="50%" align="center">
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=renanuya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=renanuya&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
-</div>
