@@ -1,5 +1,5 @@
 ### .init
-Hi, I'm Ali Renan Uyanık. I am a university student with a keen interest in staying up-to-date with new technologies.<br>
+Hi, I'm Ali Renan Uyanık. I'm a university student with a keen interest in staying up-to-date with new technologies.<br>
 
 ### .code
 I use GitHub mostly to store and synchronize my work.<br>
