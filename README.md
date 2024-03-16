@@ -1,22 +1,18 @@
-<h1 align="center">Hi 👋, I'm Renan</h1>
+### .init
+Hi, I'm Ali Renan Uyanık. I am a university student with a keen interest in staying up-to-date with new technologies.<br>
 
-<div align="center">
+### .code
+I use GitHub mostly to store and synchronize my work.<br>
+But I have a few open source projects:
+ - [StudyOn](https://github.com/Renanuya/): Soon..
+ - [Oblique Projectile Motion](https://github.com/Renanuya/Python-Oblique-Projectile-Motion): Simple physics engine that calculates the angle and velocity of a rocket to hit a ship.
+ - [Flutter Onboarding](https://github.com/Renanuya/flutter_onboarding): Replicates the Onboarding interface design of the TaskEz productivity app in Flutter.
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/bGqZ44xdTX) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/renanuya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/renanuya)
-<img alt="os" src="https://img.shields.io/badge/os-Mac OS-blue" />
-<a href="https://discord.com/users/582169443354804235">
-<img alt="askme" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
-</a>
-<a  href="mailto:renanuya@gmail.com">
-<img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white"/>
-</a>
-<a href="https://renanuya.com">
-<img src="https://img.shields.io/badge/Personal-D14836?&logoColor=white&color=yellow"/>
-</a>
-<a href="https://renanuya.com">
-<img src="https://komarev.com/ghpvc/?username=renanuya"/>
-</a>
+### .text
+My linkedIn is [@renanuya](https://www.linkedin.com/in/renanuya/).\
+My Instagram is [@renanuya](https://www.instagram.com/renanuya/).\
+My Discord is [@renanuya](https://discordapp.com/users/582169443354804235).
 
-<p align="justify"> <b>Just me.</b> </p>
-<br>
+### .contact
+You can reach me at [renanuya@gmail.com](mailto:renanuya@gmail.com).
+<!--- Author: berkaltiok --->
