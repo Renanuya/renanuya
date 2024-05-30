@@ -11,7 +11,7 @@ But I have a few open source projects:
 ### .text
 My linkedIn is [@renanuya](https://www.linkedin.com/in/renanuya/).\
 My Instagram is [@renanuya](https://www.instagram.com/renanuya/).\
-My Other Instagram is [@renanuya_dev](https://www.instagram.com/renanuya_dev/)\
+My Other Instagram is [@renanuya_dev](https://www.instagram.com/renanuya_dev/).\
 My Discord is [@renanuya](https://discordapp.com/users/582169443354804235).\
 My Discord server is [@Saturns's Ring](https://discord.gg/v9HBf8YNwm).
 
