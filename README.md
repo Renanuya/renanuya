@@ -4,7 +4,6 @@ Hi, I'm Ali Renan Uyanık. I'm a university student with a keen interest in stay
 ### .code
 I use GitHub mostly to store and synchronize my work.<br>
 But I have a few open source projects:
- - [StudyOn](https://github.com/Renanuya/): Soon..
  - [Oblique Projectile Motion](https://github.com/Renanuya/Python-Oblique-Projectile-Motion): Simple physics engine that calculates the angle and velocity of a rocket to hit a ship.
  - [Flutter Onboarding](https://github.com/Renanuya/flutter_onboarding): Replicates the Onboarding interface design of the TaskEz productivity app in Flutter.
 
