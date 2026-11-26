@@ -4,7 +4,7 @@ Hi, I'm Ali Renan Uyanık. I'm a university student with a keen interest in stay
 ### .code
 I use GitHub mostly to store and synchronize my work.<br>
 But I have a few open source projects: \
- - [BMT](https://github.com/Renanuya/buymeatokens-oss).
+[BMT](https://github.com/Renanuya/buymeatokens-oss).
 
 ### .text
 My linkedIn is [@renanuya](https://www.linkedin.com/in/renanuya/).\
