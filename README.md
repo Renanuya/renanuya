@@ -14,4 +14,10 @@ My Discord is [@renanuya](https://discordapp.com/users/582169443354804235).
 ### .contact
 You can reach me at [renanuya@gmail.com](mailto:renanuya@gmail.com).
 <!--- Author: berkaltiok --->
-[![Buy me tokens](https://buymeatokens.com/api/badge/renanuya)](https://buymeatokens.com/renanuya)
+[![Buy me tokens](https://buymeatokens.com/api/badge/renanuya)](https://buymeatokens.com/renanuya) \
+<a href="https://buymeatokens.com/renanuya?ref=wall">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://buymeatokens.com/api/wall/renanuya?theme=dark">
+    <img alt="Supporters on buymeatokens" src="https://buymeatokens.com/api/wall/renanuya">
+  </picture>
+</a>
